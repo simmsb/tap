@@ -1,8 +1,9 @@
 class GhidraAT1204 < Formula
   desc "Multi-platform software reverse engineering framework"
+  version "12.1"
   homepage "https://github.com/NationalSecurityAgency/ghidra"
   url "https://github.com/niooss-ledger/ghidra/archive/refs/heads/fix-decompiler-function-pointer-arm-thumb.zip"
-  sha256 "2650b5c5f2615883db347157f88d15f6f06cd14e223156cd6b6034264081f5b4"
+  sha256 "a08e3d3eeb206ace99e3ba7b61ce761b50111f67fe3156dad5c8e874ec7001ae"
   license "Apache-2.0"
 
   livecheck do
